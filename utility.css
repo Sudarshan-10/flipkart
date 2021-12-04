@@ -1,0 +1,17 @@
+.text{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.btn{
+    padding: 6px 11px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500px;
+}
+.btn:hover{
+   background-color: black;
+}
